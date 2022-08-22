@@ -1,9 +1,9 @@
 <h1>Hello world &lt👋&gt</h1>
-<h2>👨‍💻️I'm AlanJS</h2>
+<h2>👨‍💻️I'm AlanJoose</h2>
 
-- 🔭 I’m currently working on 👽️AlienTask;
-- 🌱 I’m currently learning ♨️Laravel;
-- 🤔 I’m looking for help with ♨️Laravel;
+- 🔭 I’m currently working on 🔌DatabaseSocket;
+- 🌱 I’m currently learning 🐘PHP;
+- 🤔 I’m looking for help with 🐘PHP;
 - 💬 Ask me about 🐧️Linux;
 - 📫 How to reach me: alanjsdelima@gmail.com;
 - ⚡ Fun fact: ☕️ I develop without drinking coffee;
