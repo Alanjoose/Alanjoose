@@ -9,6 +9,7 @@
 - ⚡ Fun fact: ☕️ I develop without drinking coffee;
 
 <h2> Technologies :</h2>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px" height="60px" title="linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" height="60px" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" height="60px" title="CSS3"/>
@@ -18,7 +19,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="60px" height="60px" title="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60px" height="60px" title="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60px" height="60px" title="Laravel"/>
+ </div>
 <br>
+
  <h2>Statistics :</h2>
  
  <div>
@@ -26,7 +29,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanjoose&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alanjoose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
- 
+ <h2>Commit Rate :</h2>
  ![Snake animation](https://github.com/Alanjoose/Alanjoose/blob/output/github-contribution-grid-snake.svg)
  
   ### Contact
