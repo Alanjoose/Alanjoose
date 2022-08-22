@@ -8,7 +8,7 @@
 - 📫 How to reach me: alanjsdelima@gmail.com;
 - ⚡ Fun fact: ☕️ I develop without drinking coffee;
 
-## Technologies :
+<h2> Technologies :</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px" height="60px" title="linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" height="60px" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" height="60px" title="CSS3"/>
@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60px" height="60px" title="C++"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60px" height="60px" title="Laravel"/>
 <br>
- ## Statistics :
+ <h2>Statistics :</h2>
  
  <div>
 <a href="https://github.com/Alanjoose">
