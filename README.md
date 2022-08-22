@@ -29,7 +29,7 @@
  
  ![Snake animation](https://github.com/Alanjoose/Alanjoose/blob/output/github-contribution-grid-snake.svg)
  
-  <span>Contact :</span> 
+  ### Contact
  <div>
   <a href="https://www.linkedin.com/in/alan-jos%C3%A9-209b51216/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
