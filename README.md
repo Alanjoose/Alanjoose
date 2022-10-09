@@ -1,4 +1,4 @@
-<h1>Hello world &lt👋&gt</h1>
+<h1>Hey Dev &lt👋&gt</h1>
 <h2>👨‍💻️I'm AlanJoose</h2>
 
 - 🔭 I’m currently working on 🧪Astatine;
