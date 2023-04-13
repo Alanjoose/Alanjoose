@@ -29,8 +29,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alanjoose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
  
- ![Snake animation](https://github.com/Alanjoose/Alanjoose/blob/output/github-contribution-grid-snake.svg)
- 
   ### Contact
  <div>
   <a href="https://www.linkedin.com/in/alan-jos%C3%A9-209b51216/" target="_blank">
