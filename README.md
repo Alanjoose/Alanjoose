@@ -2,8 +2,8 @@
 <h2>👨‍💻️I'm AlanJoose</h2>
 
 - 🔭 I’m currently working on 🧪Astatine;
-- 🌱 I’m currently learning 🐘PHP;
-- 🤔 I’m looking for help with 🐘PHP;
+- 🌱 I’m currently learning 🐬Mysql;
+- 🤔 I’m looking for help with ✌️Vue;
 - 💬 Ask me about 🐘PHP;
 - 📫 How to reach me: alanjsdelima@gmail.com;
 - ⚡ Fun fact: ☕️ I develop without drinking coffee;
