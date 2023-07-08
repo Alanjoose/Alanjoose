@@ -1,5 +1,5 @@
 <h1>Hey Dev &lt👋&gt</h1>
-<h2>👨‍💻️I'm AlanJoose</h2>
+<h2>👨‍💻️I'm Alan Jose</h2>
 
 - 🔭 I’m currently working on 🧪Astatine;
 - 🌱 I’m currently learning 🐬Mysql;
