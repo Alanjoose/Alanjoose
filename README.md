@@ -1,7 +1,7 @@
 <h1>Hey Dev &lt👋&gt</h1>
 <h2>👨‍💻️I'm Alan Jose</h2>
 
-- 🔭 I’m currently working on 🧪Astatine;
+- 🔭 I’m currently working on OnlineOS;
 - 🌱 I’m currently learning 🐬Mysql;
 - 🤔 I’m looking for help with ✌️Vue;
 - 💬 Ask me about 🐘PHP;
