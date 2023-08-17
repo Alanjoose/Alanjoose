@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on OnlineOS;
 - 🌱 I’m currently learning ReactJS⚛️;
-- 🤔 I’m looking for help with ✌️Vue;
+- 🤔 I’m looking for help with ReactJS⚛️;
 - 💬 Ask me about 🐘PHP;
 - 📫 How to reach me: alanjsyt@gmail.com;
 - ⚡ Fun fact: ☕️ I develop without drinking coffee;
