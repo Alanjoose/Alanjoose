@@ -2,10 +2,10 @@
 <h2>👨‍💻️I'm Alan Jose</h2>
 
 - 🔭 I’m currently working on OnlineOS;
-- 🌱 I’m currently learning 🐬Mysql;
+- 🌱 I’m currently learning ReactJS⚛️;
 - 🤔 I’m looking for help with ✌️Vue;
 - 💬 Ask me about 🐘PHP;
-- 📫 How to reach me: alanjsdelima@gmail.com;
+- 📫 How to reach me: alanjsyt@gmail.com;
 - ⚡ Fun fact: ☕️ I develop without drinking coffee;
 
 <h2> Technologies :</h2>
@@ -22,14 +22,6 @@
  </div>
 <br>
 
- <h2>Statistics :</h2>
- 
- <div>
-<a href="https://github.com/Alanjoose">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanjoose&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alanjoose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
- 
   ### Contact
  <div>
   <a href="https://www.linkedin.com/in/alan-jos%C3%A9-209b51216/" target="_blank">
@@ -38,6 +30,6 @@
   <a href="https://www.instagram.com/alan0js" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  <a href = "alanjsdelima@gmail.com">
+  <a href = "alanjsyt@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
